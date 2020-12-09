@@ -1,0 +1,1 @@
+web: gunicorn BNTUshop.wsgi --log-file -
